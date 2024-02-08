@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RecordVerification</name>
+   <tag></tag>
+   <elementGuidId>85f5f935-ebbc-4452-9caa-7d592cf13bb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/companies/c22a9b96-47f0-4e54-b518-c50bc947d2c8' and (text() = '${Name}' or . = '${Name}')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b3f73496-cac7-4e07-b626-c889eea4651f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/companies/c22a9b96-47f0-4e54-b518-c50bc947d2c8</value>
+      <webElementGuid>0513d8a8-73e3-4e74-9bea-7b37546f906f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${Name}</value>
+      <webElementGuid>d5be09f5-f9c4-43f4-9ed8-c5cbf80ca4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;ui fluid container&quot;]/div[@class=&quot;ui fluid container main-content&quot;]/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;ui celled definition sortable striped table custom-grid&quot;]/tbody[1]/tr[@class=&quot;active&quot;]/td[2]/a[1]</value>
+      <webElementGuid>318440a0-cc39-48e3-a0fa-b3876323b4ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>f0af478e-387f-4135-8b82-e9ac3e47ee3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),${Name})]</value>
+      <webElementGuid>658dea76-454f-46f1-a1c7-04ee566c2a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/companies/c22a9b96-47f0-4e54-b518-c50bc947d2c8')]</value>
+      <webElementGuid>25f31df4-544e-4508-95c2-daac5ae9ef2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>3434b358-1733-436a-9c23-7328adc569fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/companies/c22a9b96-47f0-4e54-b518-c50bc947d2c8' and (text() = ${Name} or . = ${Name})]</value>
+      <webElementGuid>59e879d0-a966-48d2-b029-da06e653cac0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

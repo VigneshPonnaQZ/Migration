@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login</name>
+   <tag></tag>
+   <elementGuidId>fd175bd2-031b-4112-91f8-b81c0e61521a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui.fluid.large.blue.submit.button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui']/div/div/form/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e6b1d979-6533-4167-9641-01905ddf012d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui fluid large blue submit button</value>
+      <webElementGuid>65f8189b-807c-4097-af2a-99dd654ce9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>f3c7ee42-b826-4d61-9d2e-825fd37fed63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui&quot;)/div[@class=&quot;ui middle aligned center aligned grid&quot;]/div[@class=&quot;column&quot;]/form[@class=&quot;ui large form&quot;]/div[@class=&quot;ui stacked segment&quot;]/div[@class=&quot;ui fluid large blue submit button&quot;]</value>
+      <webElementGuid>3f6587f2-4165-4625-8bd4-037edb07179d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui']/div/div/form/div/div[3]</value>
+      <webElementGuid>3deb9e23-8dc9-4721-80c1-1e8308e9427e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]</value>
+      <webElementGuid>81a1fcb3-dbbc-454f-9d6c-1a7cc6100277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>ccd53e2b-cc10-4bb4-8834-da79ec741fbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
